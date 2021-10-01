@@ -7,6 +7,6 @@ Personal Interests: Fitness , Gardening , Reading , Exploring<br />
 Perks: Enthusiastic , keen to dig different fields<br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supriya2371997)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-github)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/supriya2371997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/supriyakolhe123//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/s-k-github)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/supriyakolhe123//) 
