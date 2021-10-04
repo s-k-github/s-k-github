@@ -7,7 +7,6 @@ Personal Interests: Fitness , Gardening , Reading , Exploring<br />
 Perks: Enthusiastic , keen to dig different fields<br />
 
 ### Thanks for visiting! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=s-k-github&style=flat-square&color=0088cc)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/supriyakolhe123/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-github)
 
 ### Languages and Tools:
 
@@ -42,7 +41,8 @@ Perks: Enthusiastic , keen to dig different fields<br />
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-k-github&hide_border=true" />
 </details>
-
+#
+#
 <div align="center">
 
 ### The greatest glory in living lies not in never falling, but in rising every time we fall ❤️
