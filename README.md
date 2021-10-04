@@ -5,8 +5,8 @@ Current Location: Mumbai<br />
 Education: BE in CS<br />
 Personal Interests: Fitness , Gardening , Reading , Exploring<br />
 Perks: Enthusiastic , keen to dig different fields<br />
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/supriyakolhe123/)
-### Thanks for visiting! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=s-k-github&style=flat-square&color=0088cc)
+
+### Thanks for visiting! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=s-k-github&style=flat-square&color=0088cc)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/supriyakolhe123/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-github)
 
 ### Languages and Tools:
