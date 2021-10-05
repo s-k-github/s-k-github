@@ -6,7 +6,7 @@ Education: BE in CS<br />
 Personal Interests: Fitness , Gardening , Reading , Exploring<br />
 Perks: Enthusiastic , keen to dig different fields<br />
 
-### Thanks for visiting! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=s-k-github&style=flat-square&color=0088cc)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/supriyakolhe123/)
+### Thanks for visiting! &nbsp;  ![](https://visitor-badge.glitch.me/badge?page_id=s-k-github&style=flat-square&color=0088cc)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/supriyakolhe123/)
 
 ### Languages and Tools:
 
