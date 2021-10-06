@@ -8,7 +8,6 @@ Perks: Enthusiastic , keen to dig different fields<br />
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=s-k-github&style=flat-square&color=0088cc)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/supriyakolhe123/)
 
-
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
